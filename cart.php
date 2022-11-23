@@ -54,7 +54,7 @@
 							<td class="text-center"><strong>Total 1.99</strong></td>
 						</tr>
 						<tr>
-							<td><a href="index.php" class="btn btn-danger"><i class="fa fa-angle-left"></i> Continue Shopping</a></td>
+							<td><a href="home.php" class="btn btn-danger"><i class="fa fa-angle-left"></i> Continue Shopping</a></td>
                             <td></td>
 							<td colspan="2" class="hidden-xs"></td>
                             <td><a href="#" class="btn btn-primary"><i class="fa-solid fa-pen-to-square"></i> Update Cart</a></td>
