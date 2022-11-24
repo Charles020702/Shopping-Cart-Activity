@@ -74,15 +74,15 @@
                         <hr>
                         <input type="hidden" name="hdnKey" value="<?php echo $_GET['k']; ?>">
                         <h3 class="title">Select Size:</h3>
-                        <input type="radio" name="radSize" id="radXS" value="XS">
+                        <input type="radio" name="radSize" id="radXS" value="XS" required>
                         <label for="radXS" class="pr-3">XS</label>
-                        <input type="radio" name="radSize" id="radSM" value="S">
+                        <input type="radio" name="radSize" id="radSM" value="S" required>
                         <label for="radSM" class="pr-3">S</label>
-                        <input type="radio" name="radSize" id="radMD" value="M">
+                        <input type="radio" name="radSize" id="radMD" value="M" required>
                         <label for="radMD" class="pr-3">M</label>
-                        <input type="radio" name="radSize" id="radLG" value="L">
+                        <input type="radio" name="radSize" id="radLG" value="L" required>
                         <label for="radLG" class="pr-3">L</label>
-                        <input type="radio" name="radSize" id="radXL" value="XL">
+                        <input type="radio" name="radSize" id="radXL" value="XL" required>
                         <label for="radXL" class="pr-3">XL</label>        
                         <hr>
                         <h3 class="title">Enter Quantity:</h3>
